@@ -16,7 +16,7 @@ requestAnimationFrame(loop);
 
 var slowAnimation = anime({
   targets: '.layer-2',
-  translateY: 5,
+  translateY: 8,
   direction: 'alternate',
   loop: true,
   easing: 'easeInOutQuad',
